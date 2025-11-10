@@ -23,3 +23,13 @@ cuda-gl-check output![2.1.2](D:\github-repo\CIS5650-Project0-Getting-Started\ima
 2.1.4
 
 ![nsight_systems_timeline](D:\github-repo\CIS5650-Project0-Getting-Started\images\nsight_systems_timeline.png)![nsight_systems_summary](D:\github-repo\CIS5650-Project0-Getting-Started\images\nsight_systems_summary.png)
+
+2.2 WebGL report
+
+![WebGL_support](D:\github-repo\CIS5650-Project0-Getting-Started\images\WebGL_support.png)
+
+2.3 WebGPU report and GPU Internals
+
+![WebGPUReport](D:\github-repo\CIS5650-Project0-Getting-Started\images\WebGPUReport.png)
+
+![GPUInternals](D:\github-repo\CIS5650-Project0-Getting-Started\images\GPUInternals.png)
