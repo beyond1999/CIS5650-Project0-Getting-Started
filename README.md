@@ -3,11 +3,23 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
+* Beyond1999
+  * goforwardlee@gmail.com
 * Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
 
 ### (TODO: Your README)
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
+
+### 2.1.2
+
+cuda-gl-check output![2.1.2](D:\github-repo\CIS5650-Project0-Getting-Started\images\2.1.2.png)
+
+2.1.3
+
+![2.1.3](D:\github-repo\CIS5650-Project0-Getting-Started\images\2.1.3.png)
+
+2.1.4
+
+![nsight_systems_timeline](D:\github-repo\CIS5650-Project0-Getting-Started\images\nsight_systems_timeline.png)![nsight_systems_summary](D:\github-repo\CIS5650-Project0-Getting-Started\images\nsight_systems_summary.png)
